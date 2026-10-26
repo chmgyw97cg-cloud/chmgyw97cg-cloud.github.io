@@ -147,6 +147,7 @@ h1 { font-family: var(--serif); font-size: clamp(48px, 5.6vw, 76px); line-height
 .site-footer { display: flex; justify-content: space-between; gap: 24px; align-items: center; padding-block: 32px; }
 .footer-name { color: var(--ink); font: 18px/1.6 var(--serif); }
 .footer-description { font-size: 10px; color: var(--muted); margin-top: 4px; }
+.footer-copyright { font-size: 10px; color: var(--muted); margin-top: 8px; }
 .footer-end { text-align: right; }
 .footer-draft { color: var(--muted); font-size: 10px; }
 .back-to-top { display: inline-flex; align-items: center; min-height: 44px; gap: 12px; color: var(--ink); font-size: 10px; text-decoration: none; }
